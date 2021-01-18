@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Torch Light</string>
+<string name="msg_error">Your Device Doesn\t support Flash Light</string>
+<string name="lbl_ok">OK</string>
+</resources>
